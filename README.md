@@ -1,4 +1,4 @@
-# Hi <img src="https://camo.githubusercontent.com/be97db312617523f171eb0fa461349309274abda75e491e51af7df9b8383c82a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" alt="Handshake" width="300" height="150"> Nice to have you here!
+# Hi <img src="https://camo.githubusercontent.com/be97db312617523f171eb0fa461349309274abda75e491e51af7df9b8383c82a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" alt="Handshake" width="100" height="100"> Nice to have you here!
 
 ## About Me
 
