@@ -6,7 +6,7 @@ I am a passionate and dedicated software developer with experience in frontend a
 
 - 🌱 I’m currently learning advanced React and exploring cloud services.
 - 💬 Ask me about JavaScript, React, Next.js, and web development.
-- 📫 How to reach me: [Your Email](mailto:nishantpopli1234@gmail.com)
+- 📫 How to reach me: [My Email](mailto:nishantpopli1234@gmail.com)
 - ⚡ Fun fact:
 
 ## Skills
