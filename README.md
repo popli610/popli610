@@ -1,4 +1,4 @@
-# <p align='center'>Hi <img src="https://camo.githubusercontent.com/be97db312617523f171eb0fa461349309274abda75e491e51af7df9b8383c82a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" alt="Handshake" width="40" height="40"> I'm Nishant Popli!
+# <p align='center'>Hi I'm Nishant Popli!
 
 ## About Me
 
